@@ -1,0 +1,2 @@
+rootProject.name='FlamApp_full'
+include ':app'
