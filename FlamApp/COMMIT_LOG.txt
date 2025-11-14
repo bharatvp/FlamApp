@@ -1,8 +1,0 @@
-init: scaffold project files
-feat(camera): Camera2 + ImageReader skeleton
-feat(jni): JNI interface and native stubs
-feat(opencv): C++ edge detector (Canny) using OpenCV API
-feat(gl): GLSurfaceView renderer stub
-feat(web): TypeScript viewer and processed_base64 placeholder
-chore: add setup script to fetch OpenCV SDK
-docs: add README and usage instructions
